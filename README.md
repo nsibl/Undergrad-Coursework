@@ -14,7 +14,7 @@
   Exploration of more advanced programming concepts using Java. Topics included object-oriented programming, inheritance, polymorphism, exception handling, and GUI development.  
 
 **Introduction to Databases**    
-  Focused on relational database design and programming with SQL. Also covered integrating databases with Java using JDBC.  
+  Focused on relational database design and programming with SQL. Also covered integrating databases with Java.  
 
 **Data Structures**    
   In-depth study of data organization techniques and algorithms in Java. Covered arrays, linked lists, stacks, queues, trees, graphs, sorting and searching algorithms, and complexity analysis.  
